@@ -1,0 +1,26 @@
+# Environment files
+.env
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest cache
+.pytest_cache/
+
+# Database files
+*.db
+
+# Archive JSON files
+archive/*.json
+
+# Egg info and build artifacts
+*.egg-info/
+build/
+dist/
+
+# Installer logs
+pip-log.txt
+
